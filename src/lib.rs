@@ -7,5 +7,5 @@ mod datalink;
 
 pub use byte_transfer::{ByteTransfer, Direction};
 pub use packet::Packet;
-pub use transport::{Message, Transport, TransportState};
+pub use transport::{Message, Transport};
 pub use datalink::DataLink;
