@@ -2,5 +2,12 @@
 name = "commkit"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "no_std abstractions for implementing communication and transport protocols"
+repository = "https://github.com/commkit-rs/commkit"
+readme = "README.md"
+authors = ["Nick Daria <contact@nickdaria.com>"]
+categories = ["embedded", "no-std", "network-programming"]
+keywords = ["embedded", "networking", "no-std", "protocol"]
 
 [dependencies]
